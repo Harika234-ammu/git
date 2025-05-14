@@ -1,2 +1,6 @@
 hello this python
 we will learn some basic concepts
+like 
+python defination
+python uses
+python features
