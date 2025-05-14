@@ -1,0 +1,2 @@
+hello this python
+we will learn some basic concepts
